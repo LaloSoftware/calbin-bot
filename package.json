@@ -1,0 +1,27 @@
+{
+  "name": "calbin-bot",
+  "version": "1.0.0",
+  "description": "A discords bot",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaloSoftware/calbin-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ts"
+  ],
+  "author": "Eduardo Lemus Laguna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaloSoftware/calbin-bot/issues"
+  },
+  "homepage": "https://github.com/LaloSoftware/calbin-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
